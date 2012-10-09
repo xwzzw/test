@@ -15,6 +15,11 @@ AUTHOR
 
 ## USAGE
 
+    const Other = 3
+
+Constantly,
+Changing.
+
     var (
         This = 1
         // Anything?
