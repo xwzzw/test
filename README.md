@@ -1,5 +1,5 @@
-## example
-
+# example
+--
 Package example is an example package with documentation
 
 	// Here is some code
@@ -12,7 +12,7 @@ AUTHOR
 Xwzzw <xwzzw@example.com>
 
 ## USAGE
---
+
 ```go
 const (
 	Another = 0
