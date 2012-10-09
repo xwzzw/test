@@ -15,6 +15,15 @@ AUTHOR
 
 ## USAGE
 
+### var
+    var (
+
+    This = 1
+    // Anything?
+    That = 2
+
+    )
+
 ### func  Example
 
     func Example()
