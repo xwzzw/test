@@ -38,8 +38,7 @@ Something?
 #### func  Example
 
 ```go
-    func Example()
-
+func Example()
 ```
 Example is a function that does nothing
 
