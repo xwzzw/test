@@ -22,14 +22,14 @@ const (
 	Again   = "this"
 )
 ```
-    Some more commentary
+Some more commentary
 
 ```go
 const Other = 3
 ```
-    Constantly,
+Constantly,
 
-    Changing.
+Changing.
 
 ```go
 var (
@@ -39,14 +39,14 @@ var (
 	That = 2.1
 )
 ```
-    Something?
+Something?
 
 #### func  Example
 
 ```go
 func Example()
 ```
-    Example is a function that does nothing
+Example is a function that does nothing
 
 #### type ExampleType
 
@@ -59,7 +59,7 @@ type ExampleType struct {
 }
 ```
 
-    ExampleType is a type of nothing
+ExampleType is a type of nothing
 
 	// Here is how to use it:
 	return &ExampleType{
