@@ -15,24 +15,28 @@ AUTHOR
 
 ### Usage
 
-    const (
-        Another = 0
-    )
-
+```go
+const (
+	Another = 0
+)
+```
 Some more commentary
 
-    const Other = 3
-
+```go
+const Other = 3
+```
 Constantly,
 
 Changing.
 
-    var (
-        This = 1
-        // Anything?
-        That = 2
-    )
+```go
+var (
+	This = 1
 
+	// Anything?
+	That = 2
+)
+```
 Something?
 
 #### func  Example
