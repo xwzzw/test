@@ -14,7 +14,7 @@ Package example is an example package with documentation
 	$ tar xf example.tar.gz -C .
 	$ ./example &
 
-## USAGE
+## Usage
 
 ```go
 const (
