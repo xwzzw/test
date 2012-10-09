@@ -14,7 +14,7 @@ Package example is an example package with documentation
 	$ tar xf example.tar.gz -C .
 	$ ./example &
 
-### Author
+### By
 
 * Xwzzw Lapidus <lapidus@example.com>
 * Xyzzy Gersham <gersham@example.com>
