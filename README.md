@@ -16,9 +16,7 @@ AUTHOR
 ### Usage
 
     const (
-
         Another = 0
-
     )
 
 Some more commentary
