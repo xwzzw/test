@@ -11,7 +11,7 @@ AUTHOR
 
 Xwzzw <xwzzw@example.com>
 
-### USAGE
+## USAGE
 --
 ```go
 const (
