@@ -7,9 +7,12 @@ Package example is an example package with documentation
 		abc := 1 + 1
 	}()
 
-## AUTHOR
+## INSTALL
 
-Xwzzw <xwzzw@example.com>
+	# This is how to install it:
+	$ curl http://example.com
+	$ tar xf example.tar.gz -C .
+	$ ./example &
 
 ## USAGE
 
