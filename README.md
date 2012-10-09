@@ -64,7 +64,7 @@ ExampleType is a type of nothing
 #### func  NewExample
 
 ```go
-func NewExample() ExampleType
+func NewExample() *ExampleType
 ```
 
 #### func (ExampleType) Set
