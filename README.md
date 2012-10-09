@@ -52,6 +52,10 @@ Example is a function that does nothing
 
 ```go
 type ExampleType struct {
+	First  int
+	Second string
+	Third  float64
+	Parent *ExampleType
 }
 ```
 
