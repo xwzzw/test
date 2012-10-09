@@ -15,9 +15,17 @@ AUTHOR
 
 ### Usage
 
+    const (
+
+        Another = 0
+
+    )
+
+
     const Other = 3
 
 Constantly,
+
 Changing.
 
     var (
