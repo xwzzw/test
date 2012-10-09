@@ -7,7 +7,7 @@ Package example is an example package with documentation
 		abc := 1 + 1
 	}()
 
-### Install
+## Install
 
 	# This is how to install it:
 	$ curl http://example.com
