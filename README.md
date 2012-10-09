@@ -12,7 +12,7 @@ AUTHOR
 Xwzzw <xwzzw@example.com>
 
 ### USAGE
-
+--
 ```go
 const (
 	Another = 0
