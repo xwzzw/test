@@ -17,6 +17,7 @@ Package example is an example package with documentation
 ### Author
 
 * Xwzzw Lapidus <lapidus@example.com>
+* Xyzzy Gersham <gersham@example.com>
 
 ## Usage
 
