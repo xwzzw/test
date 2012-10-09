@@ -37,9 +37,10 @@ Something?
 
 #### func  Example
 
+```go
     func Example()
 
-
+```
 Example is a function that does nothing
 
 #### type ExampleType
