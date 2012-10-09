@@ -17,7 +17,7 @@ AUTHOR
 
 ### func  Example
 
-        func Example()
+    func Example()
 
 
 Example is a function that does nothing
