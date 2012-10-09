@@ -9,7 +9,7 @@ Package example is an example package with documentation
 
 AUTHOR
 
-	Xwzzw <xwzzw@example.com>
+Xwzzw <xwzzw@example.com>
 
 ### USAGE
 
