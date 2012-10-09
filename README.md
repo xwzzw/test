@@ -7,7 +7,7 @@ Package example is an example package with documentation
 		abc := 1 + 1
 	}()
 
-AUTHOR
+## AUTHOR
 
 Xwzzw <xwzzw@example.com>
 
