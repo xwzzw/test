@@ -13,21 +13,21 @@ Xwzzw <xwzzw@example.com>
 
 ### USAGE
 
-```golang
+```go
 const (
 	Another = 0
 )
 ```
 Some more commentary
 
-```golang
+```go
 const Other = 3
 ```
 Constantly,
 
 Changing.
 
-```golang
+```go
 var (
 	This = 1
 
@@ -39,14 +39,14 @@ Something?
 
 #### func  Example
 
-```golang
+```go
 func Example()
 ```
 Example is a function that does nothing
 
 #### type ExampleType
 
-```golang
+```go
 type ExampleType struct {
 }
 ```
@@ -55,13 +55,13 @@ ExampleType is a type of nothing
 
 ##### func  NewExample
 
-```golang
+```go
 func NewExample() ExampleType
 ```
 
 ##### func (ExampleType) Set
 
-```golang
+```go
 func (ExampleType) Set() bool
 ```
 
