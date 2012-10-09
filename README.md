@@ -44,8 +44,10 @@ Example is a function that does nothing
 
 #### type ExampleType
 
-    type ExampleType struct { }
-
+```go
+type ExampleType struct {
+}
+```
 
 ExampleType is a type of nothing
 
