@@ -1,6 +1,6 @@
 # example
 
-## SYNOPSIS
+### Synopsis
 
 Package example is an example package with documentation
 
@@ -13,7 +13,7 @@ AUTHOR
 
 	Xwzzw <xwzzw@example.com>
 
-## USAGE
+### Usage
 
     const Other = 3
 
@@ -28,14 +28,14 @@ Changing.
 
 Something?
 
-### func  Example
+#### func  Example
 
     func Example()
 
 
 Example is a function that does nothing
 
-### type ExampleType
+#### type ExampleType
 
     type ExampleType struct { }
 
