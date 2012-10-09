@@ -53,4 +53,16 @@ type ExampleType struct {
 
 ExampleType is a type of nothing
 
+##### func  NewExample
+
+```go
+func NewExample() ExampleType
+```
+
+##### func (ExampleType) Set
+
+```go
+func (ExampleType) Set() bool
+```
+
 
