@@ -14,6 +14,10 @@ Package example is an example package with documentation
 	$ tar xf example.tar.gz -C .
 	$ ./example &
 
+### Author
+
+	Xwzzw Lapidus <lapidus@example.com>
+
 ## Usage
 
 ```go
