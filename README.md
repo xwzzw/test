@@ -16,11 +16,9 @@ AUTHOR
 ## USAGE
 
     var (
-
         This = 1
         // Anything?
         That = 2
-
     )
 
 Something?
