@@ -15,14 +15,12 @@ AUTHOR
 
 ## USAGE
 
-    var (
+var (
+	This = 1
 
-        This = 1
-        // Anything?
-        That = 2
-
-    )
-
+	// Anything?
+	That = 2
+)
 Something?
 ### func  Example
 
