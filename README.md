@@ -17,14 +17,14 @@ AUTHOR
 
 ### func  Example
 
-        func Example()
+    func Example()
 
 
 Example is a function that does nothing
 
 ### type ExampleType
 
-    type ExampleType struct { }
+type ExampleType struct { }
 
 
 ExampleType is a type of nothing
