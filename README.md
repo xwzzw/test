@@ -21,6 +21,7 @@ AUTHOR
 
     )
 
+Some more commentary
 
     const Other = 3
 
