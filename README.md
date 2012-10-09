@@ -16,6 +16,7 @@ Xwzzw <xwzzw@example.com>
 ```go
 const (
 	Another = 0
+	Again   = "this"
 )
 ```
 Some more commentary
@@ -32,7 +33,7 @@ var (
 	This = 1
 
 	// Anything?
-	That = 2
+	That = 2.1
 )
 ```
 Something?
