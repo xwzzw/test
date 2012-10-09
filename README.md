@@ -15,7 +15,6 @@ AUTHOR
 
 ## USAGE
 
-### var
     var (
 
 	This = 1
