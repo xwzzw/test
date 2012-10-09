@@ -9,6 +9,10 @@ Package example is an example package with documentation
 		abc := 1 + 1
 	}()
 
+AUTHOR
+
+	Xwzzw <xwzzw@example.com>
+
 ## USAGE
 
 ### func  Example
