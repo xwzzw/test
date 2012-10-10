@@ -83,4 +83,4 @@ func (ExampleType) Set() bool
 
 
 --
-godoc for github -- **godocdown** http://github.com/robertkrimen/godocdown
+**godocdown** http://github.com/robertkrimen/godocdown
