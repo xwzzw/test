@@ -81,3 +81,6 @@ func (ExampleType) Set() bool
 ```
 
 
+
+--
+Built via **[godocdown]**(http://github.com/robertkrimen/godocdown) http://github.com/robertkrimen/godocdown
