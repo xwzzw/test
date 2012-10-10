@@ -82,5 +82,5 @@ func (ExampleType) Set() bool
 
 
 
----
-Built via **godocdown** http://github.com/robertkrimen/godocdown
+--
+Documentation via **godocdown** http://github.com/robertkrimen/godocdown
