@@ -1,5 +1,9 @@
 # example
 --
+```import "github/robertkrimen/godocdown/example"```
+
+## Overview
+
 Package example is an example package with documentation
 
 	// Here is some code
@@ -79,8 +83,3 @@ func NewExample() *ExampleType
 ```go
 func (ExampleType) Set() bool
 ```
-
-
-
---
-**godocdown** http://github.com/robertkrimen/godocdown
