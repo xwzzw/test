@@ -83,3 +83,6 @@ func NewExample() *ExampleType
 ```go
 func (ExampleType) Set() bool
 ```
+
+--
+**godocdown** http://github.com/robertkrimen/godocdown
