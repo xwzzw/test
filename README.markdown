@@ -1,6 +1,6 @@
 # example
 --
-##### ```import "github.com/robertkrimen/godocdown/example"```
+```import "github.com/robertkrimen/godocdown/example"```
 
 Package example is an example package with documentation
 
