@@ -9,7 +9,7 @@ Package example is an example package with documentation
 		abc := 1 + 1
 	}()
 
-### Install
+### Installation
 
 	# This is how to install it:
 	$ curl http://example.com
@@ -24,24 +24,22 @@ const (
 	Again   = "this"
 )
 ```
-Some more commentary
+Another constant section
 
 ```go
 const Other = 3
 ```
-Constantly,
-
-Changing.
+A constant section
 
 ```go
 var (
 	This = 1
 
-	// Anything?
+	// A description of That
 	That = 2.1
 )
 ```
-Something?
+A variable section
 
 #### func  Example
 
@@ -84,3 +82,6 @@ func (ExampleType) Set() bool
 
 --
 **godocdown** http://github.com/robertkrimen/godocdown
+
+--
+This was via template
